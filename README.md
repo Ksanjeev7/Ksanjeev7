@@ -1,12 +1,33 @@
-- 👋 Hi, I’m Sanjeev Kadagandla
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning DSA with Java
-- 💞️ I’m looking to collaborate on Java Projects
-- 📫 How to reach me sanjeevkadagandla61@gmail.com 
-- 😄 Pronouns: Sanju
-- ⚡ Fun fact: "If Debugging is removing bug's, then Actual Coding is Adding Bug's"😄.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<!---
-Ksanjeev7/Ksanjeev7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+###
+
+<p align="left">My name is Sanjeev Kadagandla and I'm an Aspiring Backend Developer from Bangalore.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning AWS, DSA with Java<br>🎯 Goals: To become a Good Backend Dev.<br>🎲 Fun fact: If Debugging is removing bugs, then Actual Coding is Adding Bug's</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+</div>
+
+###
