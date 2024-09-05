@@ -16,7 +16,7 @@
    📚 I'm currently learning AWS, DSA <br>
    🎯 Goals: To become a Good Backend Dev.<br>
    🎲 Fun fact: If Debugging is removing bugs, then Actual Coding is Adding Bugs.<br>
-   📫 For any questions or collaboration, you can reach me at [sanjeevkadagandla61@gmail.com](mailto:sanjeevkadagandla61@gmail.com)
+   📫 For any questions or collaboration, you can reach me at: <a href="mailto:sanjeevkadagandla61@gmail.com">sanjeevkadagandla61@gmail.com</a>
 </p>
 
 ###
